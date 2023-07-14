@@ -179,148 +179,6 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">JCGB-blue_M_pillShaped_btn.png</key>
-            <key type="filename">JCGB-green_M_pillShaped_btn.png</key>
-            <key type="filename">JCGB-grey_M_pillShaped_btn.png</key>
-            <key type="filename">JCGB-orange_M_pillShaped_btn.png</key>
-            <key type="filename">JCGB-yellow_M_pillShaped_btn.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>32,16,64,32</rect>
-                <key>scale9Paddings</key>
-                <rect>32,16,64,32</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">JCGB-blue_S_pillShaped_btn.png</key>
-            <key type="filename">JCGB-blue_S_rounded_btn.png</key>
-            <key type="filename">JCGB-green_S_pillShaped_btn.png</key>
-            <key type="filename">JCGB-green_S_rounded_btn.png</key>
-            <key type="filename">JCGB-grey_S_pillShaped_btn.png</key>
-            <key type="filename">JCGB-grey_S_rounded_btn.png</key>
-            <key type="filename">JCGB-orange_S_pillShaped_btn.png</key>
-            <key type="filename">JCGB-orange_S_rounded_btn.png</key>
-            <key type="filename">JCGB-yellow_S_pillShaped_btn.png</key>
-            <key type="filename">JCGB-yellow_S_rounded_btn.png</key>
-            <key type="filename">arrow_counterclockwise.png</key>
-            <key type="filename">arrow_cross.png</key>
-            <key type="filename">arrow_reserve.png</key>
-            <key type="filename">arrow_rotate.png</key>
-            <key type="filename">bow.png</key>
-            <key type="filename">campfire.png</key>
-            <key type="filename">card_lift.png</key>
-            <key type="filename">card_place.png</key>
-            <key type="filename">cards_shift.png</key>
-            <key type="filename">crown_b.png</key>
-            <key type="filename">d2.png</key>
-            <key type="filename">d2_outline.png</key>
-            <key type="filename">dice_3D_detailed.png</key>
-            <key type="filename">dice_out.png</key>
-            <key type="filename">fire.png</key>
-            <key type="filename">flag_square.png</key>
-            <key type="filename">hand.png</key>
-            <key type="filename">hand_cube.png</key>
-            <key type="filename">hourglass_top.png</key>
-            <key type="filename">ic_handup.png</key>
-            <key type="filename">ic_kick.png</key>
-            <key type="filename">lock_closed.png</key>
-            <key type="filename">lock_open.png</key>
-            <key type="filename">magic.png</key>
-            <key type="filename">notepad_write.png</key>
-            <key type="filename">pawn_down.png</key>
-            <key type="filename">pawn_up.png</key>
-            <key type="filename">pawns.png</key>
-            <key type="filename">puzzle.png</key>
-            <key type="filename">skull.png</key>
-            <key type="filename">snap/arrow.png</key>
-            <key type="filename">snap/arrows.png</key>
-            <key type="filename">snap/barrel.png</key>
-            <key type="filename">snap/block.png</key>
-            <key type="filename">snap/blockCliff.png</key>
-            <key type="filename">snap/blockCornerCliff.png</key>
-            <key type="filename">snap/blockCornerLarge.png</key>
-            <key type="filename">snap/blockCornerSmall.png</key>
-            <key type="filename">snap/blockCurve.png</key>
-            <key type="filename">snap/blockCurveHalf.png</key>
-            <key type="filename">snap/blockDirt.png</key>
-            <key type="filename">snap/blockMoving.png</key>
-            <key type="filename">snap/blockMovingBlue.png</key>
-            <key type="filename">snap/blockMovingLarge.png</key>
-            <key type="filename">snap/blockSlope.png</key>
-            <key type="filename">snap/blockSnow.png</key>
-            <key type="filename">snap/bomb.png</key>
-            <key type="filename">snap/bridge.png</key>
-            <key type="filename">snap/bridgeHalf.png</key>
-            <key type="filename">snap/bridgeRamp.png</key>
-            <key type="filename">snap/buttonRound.png</key>
-            <key type="filename">snap/buttonSquare.png</key>
-            <key type="filename">snap/cannon.png</key>
-            <key type="filename">snap/cannonLarge.png</key>
-            <key type="filename">snap/cannonMobile.png</key>
-            <key type="filename">snap/chest.png</key>
-            <key type="filename">snap/coinBronze.png</key>
-            <key type="filename">snap/coinGold.png</key>
-            <key type="filename">snap/coinSilver.png</key>
-            <key type="filename">snap/crate.png</key>
-            <key type="filename">snap/crateItem.png</key>
-            <key type="filename">snap/crateItemStrong.png</key>
-            <key type="filename">snap/crateStrong.png</key>
-            <key type="filename">snap/dice.png</key>
-            <key type="filename">snap/doorClosed.png</key>
-            <key type="filename">snap/doorLargeClosed.png</key>
-            <key type="filename">snap/fence.png</key>
-            <key type="filename">snap/fenceCorner.png</key>
-            <key type="filename">snap/fishPond.png</key>
-            <key type="filename">snap/flag.png</key>
-            <key type="filename">snap/flowers.png</key>
-            <key type="filename">snap/flowersLow.png</key>
-            <key type="filename">snap/heart.png</key>
-            <key type="filename">snap/hedge.png</key>
-            <key type="filename">snap/hedgeCorner.png</key>
-            <key type="filename">snap/jewel.png</key>
-            <key type="filename">snap/key.png</key>
-            <key type="filename">snap/ladder.png</key>
-            <key type="filename">snap/lever.png</key>
-            <key type="filename">snap/lock.png</key>
-            <key type="filename">snap/mushrooms.png</key>
-            <key type="filename">snap/plant.png</key>
-            <key type="filename">snap/platform.png</key>
-            <key type="filename">snap/poles.png</key>
-            <key type="filename">snap/rocks.png</key>
-            <key type="filename">snap/saw.png</key>
-            <key type="filename">snap/sign.png</key>
-            <key type="filename">snap/spikeBlock.png</key>
-            <key type="filename">snap/spikeBlockWide.png</key>
-            <key type="filename">snap/spikes.png</key>
-            <key type="filename">snap/stones.png</key>
-            <key type="filename">snap/tent.png</key>
-            <key type="filename">snap/tentLarge.png</key>
-            <key type="filename">snap/tree.png</key>
-            <key type="filename">snap/treePine.png</key>
-            <key type="filename">suit_hearts.png</key>
-            <key type="filename">sword.png</key>
-            <key type="filename">tag_empty.png</key>
-            <key type="filename">tag_shield.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>16,16,32,32</rect>
-                <key>scale9Paddings</key>
-                <rect>16,16,32,32</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">arrowDown.png</key>
             <key type="filename">arrowLeft.png</key>
             <key type="filename">arrowRight.png</key>
@@ -428,6 +286,99 @@
                 <rect>13,13,25,25</rect>
                 <key>scale9Paddings</key>
                 <rect>13,13,25,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">arrow_counterclockwise.png</key>
+            <key type="filename">arrow_cross.png</key>
+            <key type="filename">arrow_reserve.png</key>
+            <key type="filename">arrow_rotate.png</key>
+            <key type="filename">bow.png</key>
+            <key type="filename">campfire.png</key>
+            <key type="filename">card_lift.png</key>
+            <key type="filename">card_place.png</key>
+            <key type="filename">cards_shift.png</key>
+            <key type="filename">crown_b.png</key>
+            <key type="filename">d2.png</key>
+            <key type="filename">d2_outline.png</key>
+            <key type="filename">dice_3D_detailed.png</key>
+            <key type="filename">dice_out.png</key>
+            <key type="filename">fire.png</key>
+            <key type="filename">flag_square.png</key>
+            <key type="filename">hand.png</key>
+            <key type="filename">hand_cube.png</key>
+            <key type="filename">hourglass_top.png</key>
+            <key type="filename">ic_handup.png</key>
+            <key type="filename">ic_kick.png</key>
+            <key type="filename">lock_closed.png</key>
+            <key type="filename">lock_open.png</key>
+            <key type="filename">magic.png</key>
+            <key type="filename">notepad_write.png</key>
+            <key type="filename">pawn_down.png</key>
+            <key type="filename">pawn_up.png</key>
+            <key type="filename">pawns.png</key>
+            <key type="filename">puzzle.png</key>
+            <key type="filename">skull.png</key>
+            <key type="filename">snap/arrow.png</key>
+            <key type="filename">snap/arrows.png</key>
+            <key type="filename">snap/barrel.png</key>
+            <key type="filename">snap/block.png</key>
+            <key type="filename">snap/blockDirt.png</key>
+            <key type="filename">snap/blockMoving.png</key>
+            <key type="filename">snap/blockSnow.png</key>
+            <key type="filename">snap/bridge.png</key>
+            <key type="filename">snap/buttonRound.png</key>
+            <key type="filename">snap/buttonSquare.png</key>
+            <key type="filename">snap/cannon.png</key>
+            <key type="filename">snap/cannonLarge.png</key>
+            <key type="filename">snap/cannonMobile.png</key>
+            <key type="filename">snap/chest.png</key>
+            <key type="filename">snap/coin.png</key>
+            <key type="filename">snap/crate.png</key>
+            <key type="filename">snap/crateStrong.png</key>
+            <key type="filename">snap/dice.png</key>
+            <key type="filename">snap/door.png</key>
+            <key type="filename">snap/doorLarge.png</key>
+            <key type="filename">snap/fence.png</key>
+            <key type="filename">snap/fenceCorner.png</key>
+            <key type="filename">snap/flag.png</key>
+            <key type="filename">snap/gift.png</key>
+            <key type="filename">snap/heart.png</key>
+            <key type="filename">snap/jewel.png</key>
+            <key type="filename">snap/key.png</key>
+            <key type="filename">snap/ladder.png</key>
+            <key type="filename">snap/lever.png</key>
+            <key type="filename">snap/lock.png</key>
+            <key type="filename">snap/poles.png</key>
+            <key type="filename">snap/rockLarge.png</key>
+            <key type="filename">snap/rockMiddle.png</key>
+            <key type="filename">snap/rockSmall.png</key>
+            <key type="filename">snap/saw.png</key>
+            <key type="filename">snap/sign.png</key>
+            <key type="filename">snap/spikeBlock.png</key>
+            <key type="filename">snap/spikeBlockWide.png</key>
+            <key type="filename">snap/spikes.png</key>
+            <key type="filename">snap/star.png</key>
+            <key type="filename">snap/tent.png</key>
+            <key type="filename">snap/tentLarge.png</key>
+            <key type="filename">snap/tree.png</key>
+            <key type="filename">snap/treePine.png</key>
+            <key type="filename">snap/treeTrunkLarge.png</key>
+            <key type="filename">suit_hearts.png</key>
+            <key type="filename">sword.png</key>
+            <key type="filename">tag_empty.png</key>
+            <key type="filename">tag_shield.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>16,16,32,32</rect>
+                <key>scale9Paddings</key>
+                <rect>16,16,32,32</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -627,21 +578,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">grey_sliderEnd.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>2,3,4,5</rect>
-                <key>scale9Paddings</key>
-                <rect>2,3,4,5</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">grey_sliderHorizontal.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -715,6 +651,51 @@
                 <rect>31,32,63,64</rect>
                 <key>scale9Paddings</key>
                 <rect>31,32,63,64</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">rocker.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>50,50,100,100</rect>
+                <key>scale9Paddings</key>
+                <rect>50,50,100,100</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">rocker_dian.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,18,36,36</rect>
+                <key>scale9Paddings</key>
+                <rect>18,18,36,36</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">rocker_dir.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>37,15,75,30</rect>
+                <key>scale9Paddings</key>
+                <rect>37,15,75,30</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>

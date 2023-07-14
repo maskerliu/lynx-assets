@@ -27,3 +27,5 @@ node_modules/
 .creator
 
 *.blend1
+
+env/output
